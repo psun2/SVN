@@ -5,7 +5,7 @@ public class PrintImpl implements Print {
 	private String[] strArr;
 
 	public PrintImpl() {
-		System.out.println("PrintImpl() »ı¼ºÀÚ");
+		System.out.println("PrintImpl() ìƒì„±ì");
 	}
 	
 	@Override

@@ -2,7 +2,7 @@ package basic;
 
 public class NewClass {
 	public static void main(String[] args) {
-		System.out.println("¹æ±İ ¸¸µç project ÀÔ´Ï´Ù.");
-		System.out.println("Project °øÀ¯ °³³äÀ¸·Î¼­ WorkSpaceÀÇ ¿µÇâÀº µû·Î ¹ŞÁö ¾Ê´Â µí ÇÕ´Ï´Ù.");
+		System.out.println("ë°©ê¸ˆ ë§Œë“  project ì…ë‹ˆë‹¤.");
+		System.out.println("Project ê³µìœ  ê°œë…ìœ¼ë¡œì„œ WorkSpaceì˜ ì˜í–¥ì€ ë”°ë¡œ ë°›ì§€ ì•ŠëŠ” ë“¯ í•©ë‹ˆë‹¤.");
 	}
 }

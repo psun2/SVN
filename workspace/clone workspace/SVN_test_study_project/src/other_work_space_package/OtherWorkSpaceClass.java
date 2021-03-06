@@ -7,19 +7,19 @@ public class OtherWorkSpaceClass {
 	public static void main(String[] args) {
 		Print print = new PrintImpl();
 		
-		print.insertStr("�ٸ� ��ũ �����̽�"
-				, "��� Ŭ�� ����  Ŭ�� ���� workspace �Դϴ�"
-				, "���⼭ �ڷḦ ������Ʈ �ϰ�"
-				, "�ٽ� ���� �۾��ϴ� work space �� ���ư� "
-				, "pull �� �޾� ���ڽ��ϴ�");
+		print.insertStr("다른 워크 스페이스"
+				, "방금 클론 받은  클론 받은 workspace 입니다"
+				, "여기서 자료를 업데이트 하고"
+				, "다시 원래 작업하던 work space 로 돌아가 "
+				, "pull 을 받아 보겠습니다");
 		
 		print.print();
 		
-//		PrintImpl() ������
-//		�ٸ� ��ũ �����̽�
-//		��� Ŭ�� ����  Ŭ�� ���� workspace �Դϴ�
-//		���⼭ �ڷḦ ������Ʈ �ϰ�
-//		�ٽ� ���� �۾��ϴ� work space �� ���ư� 
-//		pull �� �޾� ���ڽ��ϴ�
+//		PrintImpl() 생성자
+//		다른 워크 스페이스
+//		방금 클론 받은  클론 받은 workspace 입니다
+//		여기서 자료를 업데이트 하고
+//		다시 원래 작업하던 work space 로 돌아가 
+//		pull 을 받아 보겠습니다
 	}
 }

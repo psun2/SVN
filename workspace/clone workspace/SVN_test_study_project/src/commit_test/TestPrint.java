@@ -4,17 +4,17 @@ public class TestPrint {
 	public static void main(String[] args) {
 		Print print = new PrintImpl();
 		
-		print.insertStr("¾È³çÇÏ¼¼¿ä", "Å×", "½º", "Æ®", "ÀÔ", "´Ï´Ù", ".");
+		print.insertStr("ì•ˆë…•í•˜ì„¸ìš”", "í…Œ", "ìŠ¤", "íŠ¸", "ì…", "ë‹ˆë‹¤", ".");
 		
 		print.print();
 		
-//		PrintImpl() »ı¼ºÀÚ
-//		¾È³çÇÏ¼¼¿ä
-//		Å×
-//		½º
-//		Æ®
-//		ÀÔ
-//		´Ï´Ù
+//		PrintImpl() ìƒì„±ì
+//		ì•ˆë…•í•˜ì„¸ìš”
+//		í…Œ
+//		ìŠ¤
+//		íŠ¸
+//		ì…
+//		ë‹ˆë‹¤
 //		.
 	}
 }

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CommitComments>	<CommitComment>create File 
+<CommitComments>	<CommitComment>경로 변경 및 인코딩 변경</CommitComment>
+	<CommitComment>create File 
 commit 와 동시에 push 가 됩니다.</CommitComment>
 	<CommitComment>first commit</CommitComment>
 	<CommitComment>Initial import.</CommitComment>
