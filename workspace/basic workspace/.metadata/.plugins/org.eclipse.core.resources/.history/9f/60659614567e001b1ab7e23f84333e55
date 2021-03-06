@@ -1,0 +1,22 @@
+package commit_test;
+
+public class PrintImpl implements Print {
+	
+	private String[] strArr;
+
+	public PrintImpl() {
+		System.out.println("PrintImpl() »ý¼ºÀÚ");
+	}
+	
+	public void insertStr(String... str) {
+		this.strArr = str;
+	}
+
+	@Override
+	private void print() {
+		for(String str : strArr) {
+			System.out.println(str);
+		}
+	}
+
+}

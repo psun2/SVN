@@ -1,0 +1,11 @@
+package commit_test;
+
+public class PrintImpl implements Print {
+
+	@Override
+	public void print() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

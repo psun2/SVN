@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;NewClass.java&apos; to &apos;SVN_test_study_project/src/basic&apos;&#x0D;&#x0A;- Original project: &apos;SVN_test_study_project&apos;&#x0D;&#x0A;- Destination element: &apos;SVN_test_study_project/src/basic&apos;&#x0D;&#x0A;- Original element: &apos;NewClass.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;basic" element1="/src&lt;{NewClass.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1615018062418" units="1" version="1.0"/>
+</session>

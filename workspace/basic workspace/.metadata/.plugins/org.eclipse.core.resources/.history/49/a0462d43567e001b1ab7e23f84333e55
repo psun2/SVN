@@ -1,0 +1,7 @@
+package commit_test;
+
+public class TestPrint {
+	public static void main(String[] args) {
+		Print print = new PrintImpl();
+	}
+}

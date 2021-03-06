@@ -1,0 +1,25 @@
+package other_work_space_package;
+
+import commit_test.Print;
+import commit_test.PrintImpl;
+
+public class OtherWorkSpaceClass {
+	public static void main(String[] args) {
+		Print print = new PrintImpl();
+		
+		print.insertStr("다른 워크 스페이스"
+				, "방금 클론 받은  클론 받은 workspace 입니다"
+				, "여기서 자료를 업데이트 하고"
+				, "다시 원래 작업하던 work space 로 돌아가 "
+				, "pull 을 받아 보겠습니다");
+		
+		print.print();
+		
+//		PrintImpl() 생성자
+//		다른 워크 스페이스
+//		방금 클론 받은  클론 받은 workspace 입니다
+//		여기서 자료를 업데이트 하고
+//		다시 원래 작업하던 work space 로 돌아가 
+//		pull 을 받아 보겠습니다
+	}
+}
