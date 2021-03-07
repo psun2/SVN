@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05c38d1a-4ee9-40c4-861c-51a4dd058c47" name="디폴트 변경 목록" comment="first Commit1">
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/설정.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/설정10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/설정11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/설정2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/설정3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/설정4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/설정5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/설정6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/설정7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/설정8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/설정9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/커밋.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/커밋3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/커밋4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/커밋5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/프로젝트연동.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cloneAndFull" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/cloneAndFull/CloneAndFullTestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/SVN.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../IntelJ_SVN/SVN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결101.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결77.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelJ_SVN/image/저장소연결99.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first project/first project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workspace/clone workspace/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../workspace/clone workspace/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workspace/clone workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../workspace/clone workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pQBMljY4Cs8NzTmHwPsUgd99i5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\박성언\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Study\SVN\projects\clone_project" />
+          <option name="myCopyRoot" value="D:\Study\SVN\projects\clone_project" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Study\SVN\projects\clone_project" />
+          <option name="myCopyRoot" value="D:\Study\SVN\projects\clone_project" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05c38d1a-4ee9-40c4-861c-51a4dd058c47" name="디폴트 변경 목록" comment="" />
+      <created>1615105390594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615105390594</updated>
+      <workItem from="1615105392102" duration="1400000" />
+      <workItem from="1615106820934" duration="240000" />
+      <workItem from="1615107062328" duration="240000" />
+      <workItem from="1615107916633" duration="189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="새로운 프로젝트 업데이트&#10;" />
+    <MESSAGE value="프로젝트 injection&#10;" />
+    <MESSAGE value="first Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="0" key="CommitChangelistDialog2" timestamp="1615107119938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="311" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1615107119938" />
+    <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1615107234450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615107234450" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1615106913828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615106913828" />
+    <state x="592" y="202" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615106834043">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="592" y="202" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1615106834043" />
+    <state x="587" y="312" key="svn.passwordDialog" timestamp="1615107143186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="587" y="312" key="svn.passwordDialog/0.0.1536.824@0.0.1536.824" timestamp="1615107143186" />
+    <state x="512" y="84" key="svn.repositoryBrowser" timestamp="1615106849857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="84" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1615106849857" />
+    <state x="581" y="303" key="svn.upgradeDialog" timestamp="1615107275341">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="581" y="303" key="svn.upgradeDialog/0.0.1536.824@0.0.1536.824" timestamp="1615107275341" />
+    <state x="493" y="272" key="svn4idea.checkout.options" timestamp="1615107254548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="493" y="272" key="svn4idea.checkout.options/0.0.1536.824@0.0.1536.824" timestamp="1615107254548" />
+    <state x="522" y="0" key="svn4idea.diff.options" timestamp="1615105790731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="0" key="svn4idea.diff.options/0.0.1536.824@0.0.1536.824" timestamp="1615105790731" />
+    <state x="549" y="168" key="svn4idea.import.options" timestamp="1615106074227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="svn4idea.import.options/0.0.1536.824@0.0.1536.824" timestamp="1615106074227" />
+    <state x="528" y="214" width="579" height="396" key="svn4idea.mkdir.options" timestamp="1615106010171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="528" y="214" width="579" height="396" key="svn4idea.mkdir.options/0.0.1536.824@0.0.1536.824" timestamp="1615106010171" />
+  </component>
+</project>
